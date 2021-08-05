@@ -6,6 +6,8 @@ Instruction for Software installation on Jetson nano is in installation.md
 
 No software installation needed since we could access the jetson through the web
 
+Demo video on https://youtu.be/niHB4OgY6lk
+
 **1. Introduction:** Build a waveshare jetBot AI kit based on Nvidia Jetson Nano 4GB.
 
 **a. Goal of this project:**
