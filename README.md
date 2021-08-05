@@ -2,7 +2,7 @@
  
  **Wen Zhe Xian**
  
-Instruction for Software installation on Jetson nano is in installation.md
+Instruction for Software installation on Jetson nano is in Jetson_installation.md
 
 No software installation needed since we could access the jetson through the web
 
