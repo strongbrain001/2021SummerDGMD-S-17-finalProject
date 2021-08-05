@@ -35,14 +35,15 @@
 *a. Software + Developing tools*
 
 1. Python 3 Jupyter notebook
-2. Opencv
-3. Codes are all base on Github NVIDIA-AI-IOT / jetbot wiki, with modifications to fit my waveshare third party jetbot, because the scale of the speed is different than the first party kit
-4. Jetson OS named JetPack 4.3 based on Ubuntu from NVIDIA
-5. TensorRT, is a library developed by NVIDIA for faster inference on NVIDIA graphics processing units (GPUs)
-6. PyTorch, is open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing
-7. COCO dataset for objects tracking neural network training
-8. 420 pictures taken by myself for line following neural network training
-9. 120 pictures taken by myself for collision avoidance neural network training
+
+3. Opencv
+4. Codes are all base on Github NVIDIA-AI-IOT / jetbot wiki, with modifications to fit my waveshare third party jetbot, because the scale of the speed is different than the first party kit
+5. Jetson OS named JetPack 4.3 based on Ubuntu from NVIDIA
+6. TensorRT, is a library developed by NVIDIA for faster inference on NVIDIA graphics processing units (GPUs)
+7. PyTorch, is open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing
+8. COCO dataset for objects tracking neural network training
+9. 420 pictures taken by myself for line following neural network training
+10. 120 pictures taken by myself for collision avoidance neural network training
 
 *b. Laptop setup*
 
@@ -53,14 +54,16 @@
 *c. Hardware need:*
 
 a. Waveshare Jetbot AI kit contains major components as follow
+
    1. Two motors for controlling the left and right wheel independently
-   1. Camera module
-   1. Wifi module for web based access to the jetbot
-   1. SD memory card for the jetson operation system named jetPack (based on ubuntu)
-b. NVIDIA Jetson Nano 4GB (for better performance)
-c. 3 packs of 14867 battery
-d. 12V power power supply for battery charging
-e. 5V/4A 20W power supply for powering jetson nano directly
+   
+   2. Camera module
+   3. Wifi module for web based access to the jetbot
+   4. SD memory card for the jetson operation system named jetPack (based on ubuntu)
+   5. NVIDIA Jetson Nano 4GB (for better performance)
+   6. 3 packs of 14867 battery
+   7. 12V power power supply for battery charging
+   8. 5V/4A 20W power supply for powering jetson nano directly
 
 **5. Simulator:**
 1. None
@@ -70,19 +73,27 @@ e. 5V/4A 20W power supply for powering jetson nano directly
 a. Finish assembling the JetBot kit, install the essential software into the Jetson and test the basic function before 18JUL2021.
 
 b. Build a racing track that suitable for jetbot used, since there has viewing field limitation on the camera module
+
 c. Perform collision avoidance successfully and record demo videos
+
 d. Perform line following successfully and record demo videos
    1. Test line following feature on the track from milestone “ii”
    2. Take more (end up total 420) pictures for neural network training for a more smooth motion.
+   
 e. Perform line following and stop when obstruct present and go when obstruct remove successfully and record demo videos
    1. Test on the track from milestone “ii”
    2. Take more (end up total 120) picture for neural network training
+   
 f. Perform object following and stop when getting close successfully and record demo videos
    1. Test on open space
    2. Fine tune the parameters to get a more smooth, responsive motion
+
 g. Finished presentation slides
+
 h. Record presentation video
+
 i. Edit and add visual effect to the demo videos from above steps
+
 j. Combine presentation video and demo videos from step “ix” to form a 10 minutes long video. Upload the video and get ready for the presentation day
 
 **7. Result and discussion:**
@@ -92,8 +103,11 @@ j. Combine presentation video and demo videos from step “ix” to form a 10 mi
 **8. Conclusion:**
 
 a. Computing power is very important for AI / autonomous driving
+
 b. Need enough / more than one cameras and other detecting input devices to cover the suddenings to achieve safety goal on autonomous driving.
+
 c. Need massive data to train the neural network to achieve more precise outputs, more data, more accurate.
+
 d. AI / autonomous driving need more regulation and rules from the government  for public use.
 
 **9. Future work:**
@@ -103,5 +117,7 @@ a. Since my project is focused on applying the existing codes and algorithms to 
 **10. Reference:**
 
 a. <https://www.waveshare.com/wiki/JetBot_AI_Kit>
+
 b. <https://github.com/NVIDIA-AI-IOT/jetbot>
+
 c. <https://jetbot.org/master/>
