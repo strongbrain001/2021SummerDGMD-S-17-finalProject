@@ -1,6 +1,8 @@
 ﻿**Final report for Jetbot AI kit based on NVIDIA Jetson Nano**
  
  **Wen Zhe Xian**
+ 
+ Software installation is in installation.md
 
 **1. Introduction:** Build a waveshare jetBot AI kit based on Nvidia Jetson Nano 4GB.
 
