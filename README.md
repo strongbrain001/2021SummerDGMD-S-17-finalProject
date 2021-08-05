@@ -18,7 +18,7 @@ i. Should be level 3 since it only has one camera in the front to detect the Jet
 
 i. System overview
 
-![](Aspose.Words.6928ff11-a34d-4883-8391-cd856ffd527a.001.jpeg)
+![](README.001.jpeg)
 
 2. **Relate work:**
 
