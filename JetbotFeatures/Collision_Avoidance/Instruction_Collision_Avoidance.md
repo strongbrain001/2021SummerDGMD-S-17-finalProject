@@ -1,5 +1,7 @@
 **Instruction for collision avoidance**
 
+Need to set Speed gain = 0.09, Sterring gain = 0.03
+
 *1. Not using TensorRT, worse perfomance*
 1. Run data_collection.ipynb and follow the promps for data collection. (My own data 120 pictures are in dataset.zip)
 2. Run train_model.ipynb to get best_model.pth
