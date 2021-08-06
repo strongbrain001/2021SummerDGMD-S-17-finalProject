@@ -6,7 +6,11 @@ Instruction for Software installation on Jetson nano is in Jetson_installation.m
 
 Instruction for running features are in each feature folder as md file
 
-No software installation needed since we could access the jetson through the web
+Training data collected by myself are in Line_following folder as road_following_dataset_xy_2021-07-26_13-33-12.zip
+
+and in Collision_avoidance folder as dataset.zip
+
+No software installation in the computer needed since we could access the jetson through the web
 
 Demo video on https://youtu.be/niHB4OgY6lk
 
