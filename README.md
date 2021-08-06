@@ -2,6 +2,8 @@
  
  **Wen Zhe Xian**
  
+Proposal in this folde as ProposalJetbotAIKitProject.pdf
+ 
 Instruction for Software installation on Jetson nano is in Jetson_installation.md
 
 Instruction for running features are in each feature folder as md file
