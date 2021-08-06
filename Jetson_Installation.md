@@ -26,7 +26,7 @@
 3. After booting, IP address of the jetbot will shows on OLED display
 4. Open any web browser in the computer and type in http://<jetbot_ip_address>:8888 will open the jupyter notebook for jetbot access
 
-*4. Update jetbot software, in the terminal using the following commands"
+*4. Update jetbot software, in the terminal using the following commands"*
 
 1. git clone https://github.com/NVIDIA-AI-IOT/jetbot
 2. cd jetbot
@@ -37,14 +37,14 @@
 1. sudo apt-get install rsync
 2. rsync jetbot/notebooks ~/Notebooks
 
-*6. Check jetbot power mode"
+*6. Check jetbot power mode"*
 
 1. Set to 5W by using "sudo nvpmodel -m 1"
 2. Set to 10W by using "sudo nvpmodel -m 0"
 3. Check current power mode by using "sudo nvpmodel -q"
 4. Choose the power mode base on your need
 
-*7. Running features by excuted the jyputer notebook in notebook folder, the feature including"
+*7. Running features by excuted the jyputer notebook in notebook folder, the feature including"*
 
 1. Collision avoidance
 2. Line following
