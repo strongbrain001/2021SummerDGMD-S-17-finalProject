@@ -4,6 +4,8 @@
  
 Instruction for Software installation on Jetson nano is in Jetson_installation.md
 
+Instruction for running features are in each feature folder as md file
+
 No software installation needed since we could access the jetson through the web
 
 Demo video on https://youtu.be/niHB4OgY6lk
