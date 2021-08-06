@@ -50,8 +50,8 @@ Demo video on https://youtu.be/niHB4OgY6lk
 6. TensorRT, is a library developed by NVIDIA for faster inference on NVIDIA graphics processing units (GPUs)
 7. PyTorch, is open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing
 8. COCO dataset for objects tracking neural network training, you could download it from https://drive.google.com/file/d/1KjlDMRD8uhgQmQK-nC2CZGHFTbq4qQQH/view
-9. 420 pictures taken by myself for line following neural network training
-10. 120 pictures taken by myself for collision avoidance neural network training
+9. 420 pictures taken by myself for line following neural network training (in line_follow folder)
+10. 120 pictures taken by myself for collision avoidance neural network training (in collision avoidance folder)
 
 *b. Laptop setup*
 
