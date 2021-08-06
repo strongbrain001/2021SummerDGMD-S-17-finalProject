@@ -16,7 +16,7 @@ No software installation in the computer needed since we could access the jetson
 Demo video on https://youtu.be/niHB4OgY6lk
 
 Demo Video also on https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=fa846e8f-dc73-956a-9cc3-7986bc08773e  
-from 00:58:14 to 01:09:30
+Lecture 13 from 00:58:14 to 01:09:30
 
 **1. Introduction:** Build a waveshare jetBot AI kit based on Nvidia Jetson Nano 4GB.
 
