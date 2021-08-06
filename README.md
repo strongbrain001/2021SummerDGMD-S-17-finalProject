@@ -1,6 +1,5 @@
 ﻿**Final report for Jetbot AI kit based on NVIDIA Jetson Nano**
- 
- **Wen Zhe Xian**
+
  
 Proposal in this folde as ProposalJetbotAIKitProject.pdf
  
